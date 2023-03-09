@@ -1,6 +1,10 @@
-![logo](./Musa%20Molla.svg)
-### Hi there 👋
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
 
+### <div align="center">I'm Musa Molla, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+  
 <!--
 **musamolla3131/musamolla3131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
