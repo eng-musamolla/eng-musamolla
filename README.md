@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./Banar.gif" align="center" style="width: 100%; max-height: 400px;"/>
+<img src="./Banar.gif" align="center" style="width: 100%"/>
 </div>  
   
 
