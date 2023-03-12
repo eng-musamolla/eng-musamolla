@@ -4,8 +4,3 @@
   
 
 ### <div align="justify">Hi there! I'm Musa Molla, a full-time full-stack freelance developer with over 2 years of experience working remotely. I specialize in building high-quality web applications using the latest technologies and frameworks. I'm passionate about delivering clean, efficient, and maintainable code, and I'm always looking for new challenges and opportunities to improve my skills. Let's connect and see how we can work together to bring your ideas to life! 🚀💻</div>  
-  
-<!--
-**musamolla3131/musamolla3131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
